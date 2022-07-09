@@ -44,7 +44,7 @@ while True:
     plt.legend()
     plt.show()
   elif select == 4:
-    print("종료하겠습니다")
+    print('종료하겠습니다')
     break
   else:
-    print("잘못 입력하였습니다.")
+    print('잘못 입력하였습니다')
